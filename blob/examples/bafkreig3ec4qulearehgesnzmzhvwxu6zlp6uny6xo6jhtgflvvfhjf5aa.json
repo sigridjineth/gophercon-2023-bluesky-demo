@@ -1,0 +1,9 @@
+{
+  "size": 109568,
+  "contentType": "image/jpeg",
+  "source": {
+    "pds": "https://bsky.social",
+    "did": "did:plc:7vbuigeo6wqx5e2qefollz2e",
+    "url": "https://bsky.social/xrpc/com.atproto.sync.getBlob?did=did:plc:7vbuigeo6wqx5e2qefollz2e\u0026cid=bafkreig3ec4qulearehgesnzmzhvwxu6zlp6uny6xo6jhtgflvvfhjf5aa"
+  }
+}
